@@ -70,7 +70,8 @@
 - [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 - [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
 - [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - Typesense search component.
-
+- [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - Typesense search component.
+- [@getcanary/docusaurus-theme-search-pagefind](https://getcanary.dev/docs/local/integrations/docusaurus.html) - Create [Pagefind](https://pagefind.app/) index and use [Canary](https://github.com/fastrepl/canary) as UI primitives.
 
 ## Contribute
 
